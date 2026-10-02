@@ -13,9 +13,19 @@ built with Python (pandas, matplotlib).
 2. Focus energy-saving efforts on compressors
 3. Schedule maintenance shutdowns in low-demand months (May/October)
 
+## Charts
+
+### Yearly cost per machine type
 ![Cost by machine type](cost_by_type.png)
 
+### Yearly cost per machine
+![Cost per machine](cost_per_machine.png)
+
+### Operating temperature per machine
 ![Temperature per machine](temperature_per_machine.png)
+
+### Monthly energy use
+![Monthly energy use](monthly_energy.png)
 
 ## Files
 | File | Content |
