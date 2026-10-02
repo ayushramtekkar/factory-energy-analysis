@@ -1,0 +1,11 @@
+machine,type,power_kw,hours,temp_c
+Compressor A,compressor,7.5,8,95
+Pump B,pump,1.5,10,60
+Fan C,fan,0.1,5,20
+Drill D,drill,0.5,8,50
+Oven E,oven,4.0,6,88
+Chiller F,chiller,3.2,12,92
+Pump G,pump,2.2,16,71
+Fan H,fan,0.3,24,35
+Compressor I,compressor,5.5,10,83
+Oven J,oven,6.0,4,97
